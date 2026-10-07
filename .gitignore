@@ -1,0 +1,6 @@
+/target
+*.mbox
+!tests/fixtures/*.mbox
+*.csv
+*.pst
+.env

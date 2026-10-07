@@ -1,0 +1,19 @@
+[package]
+name = "mail-contacts"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.82"
+description = "Extrait un carnet de contacts dédoublonné d'une archive mail au format mbox"
+license = "MIT"
+repository = "https://github.com/bastaga15/mail-contacts"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+csv = "1"
+mail-parser = "0.11"
+unicode-normalization = "0.1"
+walkdir = "2"
+
+[dev-dependencies]
+csv = "1"

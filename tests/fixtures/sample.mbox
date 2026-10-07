@@ -1,0 +1,59 @@
+From alice@example.org Mon Mar 02 09:15:00 2026
+From: "DURAND Alice" <alice.durand@fournisseur-exemple.fr>
+To: Camille Martin <camille.martin@mon-entreprise.example>
+Subject: Devis pour la commande 42
+Date: Mon, 02 Mar 2026 09:15:00 +0100
+Content-Type: text/plain; charset=utf-8
+
+Bonjour Camille,
+
+Voici le devis demandé.
+
+Cordialement,
+Alice Durand
+Responsable commerciale
+Fournisseur Exemple SAS
+01 23 45 67 89
+
+From camille@example.org Tue Mar 03 10:00:00 2026
+From: Camille Martin <camille.martin@mon-entreprise.example>
+To: alice.durand@fournisseur-exemple.fr
+Cc: "Bob Leroy" <bob.leroy@gmail.com>, contact@fournisseur-exemple.fr
+Subject: Re: Devis pour la commande 42
+Date: Tue, 03 Mar 2026 10:00:00 +0100
+Content-Type: text/plain; charset=utf-8
+
+Merci Alice, c'est validé.
+
+Camille
+
+From alice@example.org Thu Mar 05 16:30:00 2026
+From: =?UTF-8?Q?Alice_Durand?= <Alice.Durand@Fournisseur-Exemple.fr>
+To: camille.martin@mon-entreprise.example
+Subject: Livraison
+Date: Thu, 05 Mar 2026 16:30:00 +0100
+Content-Type: text/plain; charset=utf-8
+
+La livraison part demain.
+
+>From la part de toute l'équipe, merci.
+
+-- 
+Alice Durand
+Directrice commerciale
+
+From noreply@example.org Fri Mar 06 08:00:00 2026
+From: Service Notifications <no-reply@outil-exemple.com>
+To: camille.martin@mon-entreprise.example
+Subject: Votre rapport hebdomadaire
+Date: Fri, 06 Mar 2026 08:00:00 +0100
+
+Rapport automatique.
+
+From old@example.org Mon Jan 05 08:00:00 2026
+From: /O=EXEMPLE/OU=EXCHANGE/CN=RECIPIENTS/CN=4F2A9C1B7D3E4A5B8C6D7E8F9A0B1C2D-PAUL <paul.petit@client-exemple.com>
+To: camille.martin@mon-entreprise.example
+Subject: Ancien message
+Date: Mon, 05 Jan 2026 08:00:00 +0100
+
+Message de janvier.
